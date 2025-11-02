@@ -18,4 +18,4 @@ ls
 
 cd kashu
 
-python2 syed. py
+python2 syed.py
